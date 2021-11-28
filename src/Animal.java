@@ -18,8 +18,4 @@ public class Animal {
         return voiceStrategy.voice(sound);
     }
 
-    /*public void setVoiceStrategy(VoiceStrategy voiceStrategy) {
-        this.voiceStrategy = voiceStrategy;
-    }
-     */
 }
